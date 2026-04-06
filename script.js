@@ -1,9 +1,9 @@
 /* ================= SOUNDS ================= */
 
-const clickSound = new Audio("assets/sounds/click.wav");
-const errorSound = new Audio("assets/sounds/erro.wav");
-const startupSound = new Audio("assets/sounds/windows-xp-startup.wav");
-const openSound = new Audio("assets/sounds/woosh.wav");
+const clickSound = new Audio("assets/Sounds/click.wav");
+const errorSound = new Audio("assets/Sounds/erro.wav");
+const startupSound = new Audio("assets/Sounds/windows-xp-startup.wav");
+const openSound = new Audio("assets/Sounds/woosh.wav");
 
 clickSound.preload = "auto";
 errorSound.preload = "auto";
