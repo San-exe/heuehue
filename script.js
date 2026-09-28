@@ -312,6 +312,20 @@ else if (section === "skills") {
                     </div>
                 </div>
                 <div class="project-card">
+                <div class="project-card">
+    <div class="left">
+        <h2>SatQuery AI</h2>
+        <p>AI-powered remote sensing image analysis assistant.</p>
+        <p>
+            Built a vision-language system that allows users to analyze
+            satellite imagery using natural language queries.
+        </p>
+        <p><b>Tools:</b> Python, FastAPI, Sentinel-2, VLM</p>
+    </div>
+    <div class="right">
+        <img src="assets/sat.png">
+    </div>
+</div>
     <div class="left">
         <h2>Spotify UI Clone</h2>
         <p>Pixel-perfect Spotify interface designed in Figma.</p>
